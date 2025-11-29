@@ -1,0 +1,22 @@
+# Core Data Science Libraries
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Deep Learning (Optional)
+tensorflow==2.20.0
+keras==3.12.0
+
+# Utilities
+joblib==1.5.2
+tqdm
+
+# Jupyter for experimentation
+jupyter
+notebook
+ipykernel
+
+# Testing
+pytest
