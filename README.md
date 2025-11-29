@@ -1,9 +1,9 @@
 # DDoS Attack Detection and Classification Using Machine Learning
 
 **Team Members:**
-- Usman Khurshid (22L-7877)
 - Saad Amir (22L-7978)
 - Asad Shafiq (22L-7932)
+- Usman Khurshid (22L-7877)
 
 
 ## Project Overview
