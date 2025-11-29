@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This report presents the results of training and evaluating three machine learning models for DDoS attack detection using the CICDDoS2019 dataset. All models achieved exceptional performance, with the Neural Network model reaching **99.04% accuracy** on 431,371 real network traffic samples.
+This report presents the results of training and evaluating three machine learning models for DDoS attack detection using the CICDDoS2019 dataset. All models achieved exceptional performance, with the Neural Network model reaching **99.04% accuracy** on 431,371 real network traffic samples exceptionally.
 
 ## Dataset
 
